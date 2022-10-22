@@ -1,0 +1,136 @@
+{
+  "token": "ODY5MjAwNjAxMjQ0OTAxMzc2.G2cYcb.0Ft6XUw2AFgaGdLz5aG5jRfUv81egkXMRu7UqE",
+  "mongodb": "mongodb+srv://khiem:Khiemvps@123@cluster0.ek92hae.mongodb.net/?retryWrites=true&w=majority",
+  "prefix": "!",
+  "ip": "15.235.167.100:30120",
+  "adminid" : ["477807700466728971", "480370632060567562"],
+  "simsimroomid": "913176091718484030",
+  "systemlogid": "913176091718484030",
+  "chatlogid": "913176091718484030", 
+  "allowall" : true,
+  "allowchannelid" : [], 
+  "blacklistnganhdata": {
+      "ca": {
+          "content": "Truy Nã",
+          "rolestaffid": [
+              "913176091718484030",
+              "913176091718484030"
+          ],
+          "commandroomid" : "913176091718484030",
+          "banroomid" : "913176091718484030",
+          "banlogid" : "913176091718484030",
+          "bancheckid" : "913176091718484030",
+          "tkroomid" : "913176091718484030"
+      },
+      "med": {
+          "content": "Blacklist",
+          "rolestaffid": [
+              "1005372527733915659"
+          ],
+          "commandroomid" : "913176091718484030",
+          "banroomid" : "913176091718484030",
+          "banlogid" : "913176091718484030",
+          "bancheckid" : "913176091718484030",
+          "tkroomid" : "913176091718484030"
+      },
+      "ch": {
+          "content": "Blacklist",
+          "rolestaffid": [
+              "782489497085542410"
+          ],
+          "commandroomid" : "913176091718484030",
+          "banroomid" : "913176091718484030",
+          "banlogid" : "913176091718484030",
+          "bancheckid" : "913176091718484030",
+          "tkroomid" : "913176091718484030"
+      }
+  },
+  "nametag": {
+      "ca": [
+          "police ",
+          "gđcs ",
+          "gdcs ",
+          "pgđcs ",
+          "pgdcs ",
+          "thanh tra "
+      ],
+      "qy": [
+          "quân y ",
+          "qlqy ",
+          "gđqy ",
+          "gdqy ",
+          "qy ",
+          "quan y"
+      ],
+      "med": [
+          "med ",
+          "gđbs ",
+          "pgđbs ",
+          "gdbs ",
+          "pgdbs ",
+          "tkbs ",
+          "gsbs ",
+          "qlbs "
+      ],
+      "ch": [
+          "qlch ",
+          "ch ",
+          "gđch ",
+          "pgđch ",
+          "gdch ",
+          "pgdch ",
+          "pqlch ",
+          "tkch ",
+          "tkgd ",
+          "tkgđ "
+
+      ]
+  },
+  "gang" : [
+    {
+        "label" : "The Continentals",
+        "nametag" : ["tc"]
+    },
+    {
+        "label" : "Wolf Of Warrior 2.0",
+        "nametag" : ["wow2"]
+    },
+    {
+        "label" : "ASSASSIN",
+        "nametag" : ["assassin"]
+    },
+    {
+        "label" : "Tập Đoàn Chợ Cá",
+        "nametag" : ["chợ cá"]
+    },
+    {
+        "label" : "Black Dragon Gang",
+        "nametag" : ["bdg"]
+    },
+    {
+        "label" : "King Young",
+        "nametag" : ["ky"]
+    },
+    {
+        "label" : "MAFIA",
+        "nametag" : ["mf"]
+    },
+    {
+        "label" : "Deathless Gods",
+        "nametag" : ["dg"]
+    },
+    {
+        "label" : "Joker Money Marker",
+        "nametag" : ["jmm"]
+    },
+    {
+        "label" : "Lão Hội",
+        "nametag" : ["lão hội"]
+    }
+  ],
+  "linkavt": "https://media.discordapp.net/attachments/867825651671236609/1032981393090822214/logoo.png",
+  "errlogid": "913176091718484030",
+  "covidnewsid" : ["913176091718484030"] ,
+  "checkroomid" : "913176091718484030",
+  "resban": [ ]
+}

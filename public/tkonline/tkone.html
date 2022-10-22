@@ -1,0 +1,54 @@
+<head> 
+    <title>RU BOT</title>
+    <link rel="shortcut icon" href="https://media.discordapp.net/attachments/867825651671236609/1032981393090822214/logoo.png" type="image/png">
+    <link rel="icon" href="https://media.discordapp.net/attachments/867825651671236609/1032981393090822214/logoo.png" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Muli:900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">    
+    <link rel="stylesheet" type="text/css" href="/tkonline/style.css" /> 
+</head>
+<body>
+    <div id="demo">
+        <h1>THỐNG KÊ THỜI GIAN ONLINE NHÂN VIÊN NGÀNH NHÀ NƯỚC HANG ĐÁ RP</h1>
+        <h2>Tuần: {{__DATE__}} - Ngành: {{__TYPE__}}</h2>
+        
+        <!-- Responsive table starts here -->
+        <!-- For correct display on small screens you must add 'data-title' to each 'td' in your table -->
+        <table id="table" class="table table-hover table-mc-light-blue">
+          <tbody> 
+            <tr>
+              <th rowspan="3" style="width: 20%"><img src="{{__LINK_AVT__}}" style="width:100%"></th>
+              <th >Họ Tên</th>
+              <td>{{__NAME__}}</td>
+            </tr>
+            <tr>
+              <th >Link Steam</th>
+              <td>{{__LINK_STEAM__}}</td>
+            </tr>
+            <tr>
+              <th>Tổng Thời Gian Online:</th>
+              <td>{{__SUM_TIME__}}</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="table-responsive-vertical shadow-z-1">
+        <!-- Table starts here -->
+        <table id="table" class="table table-hover table-mc-light-blue">
+            <thead>
+              <tr>
+                <th>STT</th>
+                <th>Timeline</th>
+                <th>Thời gian Online</th>
+              </tr>
+            </thead>
+            <tbody> 
+              {{__TABLE_BODY__}}
+            </tbody>
+          </table>
+     
+        </div>
+     <br><br>
+      </div>
+</body>
